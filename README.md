@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Genimarcio Silva
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando TypeScript e React-JS
+- 🔭 Hoje trabalho com Front-End e Robótica Educacional
+- 🌱 Estudando TypeScript, React-JS e NodeJs
 
 <div align="center">
   <a href="https://github.com/genimarcio">
